@@ -1,4 +1,4 @@
 Desperador-Alarm
 mini project.
 
-<img src="" alt="Display of COD">
+<img src="https://github.com/AR097/Desperador-Alarm/blob/main/Despertador.png" alt="Despertador">
